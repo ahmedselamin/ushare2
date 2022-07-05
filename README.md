@@ -1,4 +1,4 @@
-# [site] (https://ushare2.herokuapp.com/)
+# https://ushare2.herokuapp.com/
 
 ## npm i & run the server using npm run devStart
 
